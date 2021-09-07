@@ -20,7 +20,7 @@ export default function App() {
             <DonutChart />
           </div>
           <div>
-            <h2 className=" text-primary py-3">Total em Vendas"</h2>
+            <h2 className="text-primary py-3">Total em Vendas</h2>
           </div>
         </div>
         <DataTable />
